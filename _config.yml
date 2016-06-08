@@ -1,0 +1,14 @@
+layout_spectrum: 0.16924370708875358
+typography_spectrum: 0.5803772574290633
+color:
+  brandStrength: 0.0823589691426605
+  lightness: 0.9605469568632543
+  saturation: 0.5727570743765682
+  rhythmicContrast: 0.017196150729432702
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: BroPluto
